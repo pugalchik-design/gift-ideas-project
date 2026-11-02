@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Набор для выращивания микрозелени",
+    "category": "creative",
+    "age": "adult",
+    "budget": "low",
+    "image": "https://picsum.photos",
+    "description": "Экологичный набор для создания домашнего мини-огорода на подоконнике."
+  },
+  {
+    "id": 2,
+    "name": "Портативный проектор",
+    "category": "gadgets",
+    "age": "teen",
+    "budget": "high",
+    "image": "https://picsum.photos",
+    "description": "Домашний кинотеатр в кармане. Подключается к смартфону и ПК."
+  },
+  {
+    "id": 3,
+    "name": "Умная термокружка с дисплеем",
+    "category": "gadgets",
+    "age": "adult",
+    "budget": "medium",
+    "image": "https://picsum.photos",
+    "description": "Показывает точную температуру напитка при прикосновении к крышке."
+  },
+  {
+    "id": 4,
+    "name": "Скретч-карта мира в тубусе",
+    "category": "creative",
+    "age": "all",
+    "budget": "medium",
+    "image": "https://picsum.photos",
+    "description": "Отличный визуальный дневник для фиксации личных путешествий."
+  },
+  {
+    "id": 5,
+    "name": "Настольная игра на логику",
+    "category": "games",
+    "age": "kids",
+    "budget": "low",
+    "image": "https://picsum.photos",
+    "description": "Развивающая и увлекательная игра для всей семьи или детской компании."
+  },
+  {
+    "id": 6,
+    "name": "Кожаный винтажный картхолдер",
+    "category": "style",
+    "age": "adult",
+    "budget": "medium",
+    "image": "https://picsum.photos",
+    "description": "Ручная работа, компактный размер и надежная защита ваших карт."
+  }
+]
